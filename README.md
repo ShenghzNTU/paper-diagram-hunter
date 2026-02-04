@@ -2,6 +2,13 @@
 
 A specialized tool for researchers to build high-quality datasets of **Methodology Diagrams** and **Model Architectures** from ArXiv papers.
 
+## Motivation & Goals
+
+The primary goal of this project is to collect high-quality paper illustrations to provide **visual inspiration** for researchers and designers. 
+
+Looking ahead, I plan to build a high-quality paper library to further assist AI Agents in generating diagrams, drawing inspiration from projects like [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/).
+
+
 ## Features
 
 - **Smart Crawler**: Automatically fetches the latest papers from top CS fields (CV, NLP, ML, AI).
@@ -47,6 +54,9 @@ The tool will:
 - Analyze them with Gemini.
 - Save valid methodology diagrams to `data/figures`.
 - Update `data/dataset_index.md`.
+
+**Enjoy!**
+
 
 ## License
 
